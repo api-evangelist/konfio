@@ -1,0 +1,47 @@
+aid: konfio
+name: Konfio
+description: >-
+  Konfio is a leading Mexican fintech serving small and medium businesses
+  (SMBs) with an all-in-one platform: working-capital and term loans
+  (Konfio Creditos), a business credit card (Konfio Tarjeta), payment
+  terminals and acceptance (Konfio Pagos / Sirvis), and SMB management
+  tools. Underwriting is powered by a proprietary algorithm that combines
+  alternative data and ML to score creditworthiness in minutes. Konfio's
+  product surface is overwhelmingly direct-to-SMB and the company does not
+  publish a self-service public developer portal. Partner integrations
+  (e.g. PayPal Working Capital, Goldman Sachs / Gramercy capital
+  facilities, marketplace lending) are negotiated bilaterally.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: Partner-Only
+position: Consumer
+created: '2026-05-23'
+modified: '2026-05-23'
+tags:
+  - SMB Lending
+  - Business Banking
+  - Credit Cards
+  - Payment Terminals
+  - Fintech
+  - Mexico
+  - Latin America
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/konfio/refs/heads/main/apis.yml
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://konfio.mx/
+  - type: Products
+    url: https://konfio.mx/productos
+  - type: Blog
+    url: https://konfio.mx/tips
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/konfio
+  - type: Careers
+    url: https://konfio.mx/carreras
+  - type: Partnerships
+    url: https://konfio.mx/contacto
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
