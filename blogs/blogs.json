@@ -2,10 +2,17 @@
   "repo": "konfio",
   "feeds": [
     {
+      "source": "https://konfio.mx/tips/feed/",
+      "feed_url": "https://konfio.mx/tips/feed/",
+      "title": "",
+      "saved": 3,
+      "method": "feed"
+    },
+    {
       "source": "https://konfio.mx/productos",
       "error": "HTTPError"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-01T23:35:02Z"
+  "post_count": 3,
+  "fetched": "2026-06-14T20:42:17Z"
 }
