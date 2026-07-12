@@ -30,6 +30,8 @@ url: >-
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/konfio-domain-security.yml
   - type: Website
     url: https://konfio.mx/
   - type: Products
