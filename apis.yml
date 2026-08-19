@@ -38,7 +38,7 @@ tags:
   - Latin America
 url: >-
   https://raw.githubusercontent.com/api-evangelist/konfio/refs/heads/main/apis.yml
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: DomainSecurity
